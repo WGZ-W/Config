@@ -1,0 +1,2 @@
+# .config
+application's configuration
