@@ -1,0 +1,8 @@
+
+
+
+
+
+picom &
+~/.fehbg &
+exec dwm
